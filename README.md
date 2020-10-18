@@ -25,19 +25,25 @@ This is a public repository where anyone in the world can help build up website 
 
 # QnA
 
-### Q: What are web templates and why are they needed in the first place?
+## Q: What are web templates and why are they needed in the first place?
 
-    A: Web templates are premade webpages for specific uses that allows others to modify to meet their needs. These makes website building much easier than starting from scratch.
-    
-    Web templates are usually used for small scale projects, which do not require much modifications.
+### A: Web templates are premade webpages for specific uses that allows others to modify to meet their needs. These makes website building much easier than starting from scratch.
 
-### Q: Who am I helping by contributing?
+### Web templates are usually used for small scale projects, which do not require much modifications.
 
-    A: You are helping anyone, from providing beginners trying to learn Web Development with a skeleton to assisting experienced users set up a website quickly.
+<br>
 
-### Q: Why can't the person whom I'm helping just use the Sketch2Code website to build their website instead?
+## Q: Who am I helping by contributing?
 
-    A: Sketch2Code only creates a prototype of the website. It is not helpful for development of the whole project.
+### A: You are helping anyone, from providing beginners trying to learn Web Development with a skeleton to assisting experienced users set up a website quickly.
+
+<br>
+
+## Q: Why can't the person whom I'm helping just use the Sketch2Code website to build their website instead?
+
+### A: Sketch2Code only creates a prototype of the website. It is not helpful for development of the whole project.
+
+<br>
 
 # Hacktoberfest
 
